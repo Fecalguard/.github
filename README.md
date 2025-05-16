@@ -12,7 +12,7 @@ FecalGuard: Inovasi Deteksi Dini Penyakit Ayam melalui Analisis Citra Feses Berb
 
 ## Team Behind FecalGuard
 
-[ ] A200XBM138 – Duma Mora Arta Sitorus – Universitas Diponegoro 
-[ ] A200XBM251 – Labiba Adinda Zahwana – Universitas Diponegoro
-[ ] A200YBM347 – Muhammad Rizki – Universitas Diponegoro
-[ ] A200XBM484 – Tiara Fitra Ramadhani Siregar – Universitas Diponegoro
+- [ ] A200XBM138 – Duma Mora Arta Sitorus – Universitas Diponegoro 
+- [ ] A200XBM251 – Labiba Adinda Zahwana – Universitas Diponegoro
+- [ ] A200YBM347 – Muhammad Rizki – Universitas Diponegoro
+- [ ] A200XBM484 – Tiara Fitra Ramadhani Siregar – Universitas Diponegoro
