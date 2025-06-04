@@ -5,13 +5,12 @@ FecalGuard: Inovasi Deteksi Dini Penyakit Ayam melalui Analisis Citra Feses Berb
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=MongoDB&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white)
 
 ## About The Project
 <br />
-FecalGuard adalah aplikasi web berbasis AI yang mendeteksi penyakit ayam dari citra feses menggunakan model CNN, dengan klasifikasi ke dalam empat kategori: Healthy, Coccidiosis, Newcastle Disease, dan Salmonella.
+FecalGuard adalah aplikasi Android berbasis AI yang mendeteksi penyakit ayam dari citra feses menggunakan model CNN, dengan klasifikasi ke dalam empat kategori: Healthy, Coccidiosis, Newcastle Disease, dan Salmonella.
 <br />
 
 ## Team Behind FecalGuard
