@@ -86,8 +86,6 @@ Pelatihan dilakukan dengan strategi **transfer learning**:
 - Pada tahap awal, base model VGG16 **dibekukan (freeze)** agar bobot pretrained tidak berubah, hanya layer atas yang dilatih.  
 - Setelah itu, buka (unfreeze) 20 lapisan terakhir base model untuk proses **fine-tuning** dengan learning rate kecil, guna menyesuaikan model terhadap karakteristik dataset spesifik citra feses ayam.  
 
----
-
 ### Pelatihan & Evaluasi  
 - Epochs: 25 dengan EarlyStopping  
 - Metrik: akurasi, precision, recall, f1-score  
