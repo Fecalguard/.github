@@ -152,10 +152,10 @@ Proyek ini berhasil menjawab seluruh pertanyaan penelitian melalui pengembangan 
   Model dilatih melalui tahapan lengkap mulai dari pengumpulan dan preprocessing data, augmentasi citra, hingga pelatihan menggunakan berbagai skenario. Evaluasi menyeluruh dilakukan untuk memilih model terbaik yang kemudian di-deploy ke dalam bentuk API.
 
 3. Pengembangan Aplikasi Mobile
-  - Aplikasi Android berhasil dikembangkan dengan fitur utama:
-  - Upload citra feses untuk deteksi penyakit
-  - Hasil deteksi disertai edukasi: gejala lainnya, solusi cepat dan jangka panjang, visualisasi contoh kasus, dan rekomendasi pembelian obat
-  - Fitur riwayat hasil deteksi
-  - Autentikasi pengguna
+    - Aplikasi Android berhasil dikembangkan dengan fitur utama:
+    - Upload citra feses untuk deteksi penyakit
+    - Hasil deteksi disertai edukasi: gejala lainnya, solusi cepat dan jangka panjang, visualisasi contoh kasus, dan rekomendasi pembelian obat
+    - Fitur riwayat hasil deteksi
+    - Autentikasi pengguna
 
 Dengan pencapaian ini, seluruh pertanyaan penelitian telah terjawab secara komprehensif melalui pendekatan yang terintegrasi antara model AI dan aplikasi mobile.
