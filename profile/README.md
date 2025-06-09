@@ -21,6 +21,10 @@ FecalGuard adalah aplikasi Android berbasis AI yang mendeteksi penyakit ayam dar
 | Muhammad Rizki                 | A200YBM347   | Universitas Diponegoro | Aktif  |  
 | Tiara Fitra Ramadhani Siregar | A200XBM484   | Universitas Diponegoro | Aktif  |  
 
+| Advisor             | 
+|---------------------|
+| Stevani Dwi Utomo   |   
+
 # Laporan Masalah Bisnis
 ## Pernyataan Masalah  
 Peternak ayam skala kecil dan menengah menghadapi kesulitan deteksi dini penyakit karena keterbatasan alat diagnostik yang praktis dan terjangkau. Keterlambatan penanganan menyebabkan penyebaran penyakit dan angka kematian tinggi. Feses ayam mengandung informasi biologis penting sebagai indikator kesehatan, namun belum banyak dimanfaatkan teknologi untuk analisisnya. Proyek ini mengembangkan sistem AI untuk menganalisis citra feses ayam secara cepat, murah, dan akurat.
