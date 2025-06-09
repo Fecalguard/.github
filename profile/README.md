@@ -99,24 +99,28 @@ Pelatihan dilakukan dengan strategi **transfer learning**:
 
 ## Visualisasi  
 <br>
-- Sampel gambar dataset
+- Sampel Gambar Dataset
 <br>
-![sample_feses](https://github.com/user-attachments/assets/bc6bfd27-a9d1-4cc6-8c29-c52987587ed4)
-<p align='center'>Gambar 1. Contoh Gambar</p>
+<p align='center'><img src="https://github.com/user-attachments/assets/bc6bfd27-a9d1-4cc6-8c29-c52987587ed4" alt="Contoh gambar dataset" width="800" />
+    </p>
+<p align='center'>Gambar 1. Contoh Gambar Sample Citra Feses Ayam</p>
 <br>
-- Kurva akurasi dan loss pelatihan 
+- Kurva Akurasi dan Loss Pelatihan Model VGG16
 <br>
 <br>
-![acc_loss_vgg16](https://github.com/user-attachments/assets/1559583e-3666-46f3-b48d-80f74fe21977)
+<p align='center'><img src="https://github.com/user-attachments/assets/1559583e-3666-46f3-b48d-80f74fe21977" alt="evaluasi" width="700" />
+</p>
 <p align='center'>Gambar 2. Visualisasi Kurva Accuracy Train dan Loss</p>
 <br>
-- Confusion matrix model
+- Confusion Matrix Model VGG16
 <br>
 <br>
-![conf_mat_vgg16](https://github.com/user-attachments/assets/0cc83099-894c-4fb3-8f8e-a752ae5807a0)
+<p align='center'><img src="https://github.com/user-attachments/assets/0cc83099-894c-4fb3-8f8e-a752ae5807a0" alt="evaluasi" width="500" />
+</p>
 <p align='center'>Gambar 3. Convusion Matrix</p>
 <br>
 
+## Teknologi yang Digunakan
 | Teknologi / Library              | Keterangan                                         |
 |---------------------------------|---------------------------------------------------|
 | Python                          | Bahasa pemrograman utama                           |
