@@ -140,9 +140,23 @@ Selain itu, beberapa modul bawaan Python juga digunakan seperti `os`, `shutil`, 
 
 ## Deployment
 Model yang dikembangkan diintegrasikan dengan API menggunakan FastAPI dan aplikasi mobile berbasis android.
-
 [Tonton Demo Aplikasi](https://drive.google.com/file/d/1eIXxO_glih71ivN4XaUkJhE2MM8SGSDL/view?usp=sharing) </br>
 [Download Aplikasi](https://github.com/qnyara5/FecalGuard-App/blob/main/app-debug.apk)
 
+## Conclussion
+Proyek ini berhasil menjawab seluruh pertanyaan penelitian melalui pengembangan sistem berbasis AI untuk deteksi dini penyakit pada ternak ayam melalui citra feses.
 
+1. Efektivitas Model AI
+  Model klasifikasi citra yang dikembangkan, khususnya VGG19, menunjukkan performa tinggi dengan akurasi, presisi, recall, dan F1-score di atas 95%, sehingga efektif dalam mendeteksi penyakit ayam secara dini melalui citra feses.
 
+2. Pelatihan Model AI
+  Model dilatih melalui tahapan lengkap mulai dari pengumpulan dan preprocessing data, augmentasi citra, hingga pelatihan menggunakan berbagai skenario. Evaluasi menyeluruh dilakukan untuk memilih model terbaik yang kemudian di-deploy ke dalam bentuk API.
+
+3. Pengembangan Aplikasi Mobile
+  - Aplikasi Android berhasil dikembangkan dengan fitur utama:
+  - Upload citra feses untuk deteksi penyakit
+  - Hasil deteksi disertai edukasi: gejala lainnya, solusi cepat dan jangka panjang, visualisasi contoh kasus, dan rekomendasi pembelian obat
+  - Fitur riwayat hasil deteksi
+  - Autentikasi pengguna
+
+Dengan pencapaian ini, seluruh pertanyaan penelitian telah terjawab secara komprehensif melalui pendekatan yang terintegrasi antara model AI dan aplikasi mobile.
