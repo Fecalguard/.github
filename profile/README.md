@@ -138,6 +138,7 @@ Selain itu, beberapa modul bawaan Python juga digunakan seperti `os`, `shutil`, 
 
 ## Deployment
 Model yang dikembangkan diintegrasikan dengan API menggunakan FastAPI dan aplikasi mobile berbasis android.
+
 [Tonton Demo Aplikasi](https://drive.google.com/file/d/1eIXxO_glih71ivN4XaUkJhE2MM8SGSDL/view?usp=sharing) </br>
 [Download Aplikasi](https://github.com/qnyara5/FecalGuard-App/blob/main/app-debug.apk)
 
